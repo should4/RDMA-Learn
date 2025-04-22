@@ -321,7 +321,10 @@
           <mxGeometry x="83" y="726" width="89" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9vfUIy3Iv-TksWCsy_Gh-140" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;&lt;span style=&quot;caret-color: rgb(0, 0, 0);&quot;&gt;CC : Congestion Control&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-660" y="463" width="147" height="28" as="geometry" />
+          <mxGeometry x="-678.75" y="460.5" width="147" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="9vfUIy3Iv-TksWCsy_Gh-141" value="GBG : Go Back N" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-680.37" y="498" width="129" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
